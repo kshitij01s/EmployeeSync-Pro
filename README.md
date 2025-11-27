@@ -74,5 +74,17 @@ Web Dashboard
 Admin Panel
 <img width="1903" height="873" alt="image" src="https://github.com/user-attachments/assets/11aad770-a2c4-48d1-82f9-14692075c1e6" />
 
+Security
+
+API Key based authentication
+Email format & salary validation
+Professional error responses with error codes (E1001–E5003)
+
+Built With Love By
+Kshitij – Full-Stack Django Developer
+GitHub: @kshitij01s
+⭐ Star this repo if you love it!
+This project is 100% open source and production-ready.
+"From college project to ₹50 Lakh enterprise system – I built this."
 
 
